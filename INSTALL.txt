@@ -56,3 +56,4 @@ TODOS ->
     Enable secure boot
     Write a script for toggeling night modeset
     Install fonts properly
+    Add interactions with ollama
